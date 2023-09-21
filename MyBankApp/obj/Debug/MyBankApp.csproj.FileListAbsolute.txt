@@ -1,0 +1,10 @@
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\bin\Debug\MyBankApp.exe.config
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\bin\Debug\MyBankApp.exe
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\bin\Debug\MyBankApp.pdb
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\bin\Debug\ClassLibrary1.dll
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\bin\Debug\ClassLibrary1.pdb
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\obj\Debug\MyBankApp.csprojAssemblyReference.cache
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\obj\Debug\MyBankApp.csproj.CoreCompileInputs.cache
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\obj\Debug\MyBankApp.csproj.CopyComplete
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\obj\Debug\MyBankApp.exe
+C:\Users\manthan.bhosale\source\repos\MyBankApp\MyBankApp\obj\Debug\MyBankApp.pdb
